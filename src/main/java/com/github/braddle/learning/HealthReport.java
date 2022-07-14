@@ -1,4 +1,4 @@
-package com.github.braddle.learning.entites;
+package com.github.braddle.learning;
 
 public class HealthReport {
 
