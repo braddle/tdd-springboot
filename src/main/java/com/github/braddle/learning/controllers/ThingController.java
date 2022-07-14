@@ -1,7 +1,6 @@
 package com.github.braddle.learning.controllers;
 
 import com.github.braddle.learning.entites.Thing;
-import com.github.braddle.learning.repositories.ThingRepository;
 import com.github.braddle.learning.services.NoThingException;
 import com.github.braddle.learning.services.ThingService;
 import org.springframework.beans.factory.annotation.Autowired;
